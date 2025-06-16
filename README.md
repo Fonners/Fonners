@@ -5,7 +5,6 @@
 - ⚡ Fun fact: 🔥Arson🔥
   
 - Certifications:
-  * CompTIA Security+ - 🔒
   * CEH - 🔒
   * CCNA - 🔒
   * CompTIA PenTest+ - 🔒
