@@ -40,13 +40,20 @@ I’m deeply passionate about tackling challenging problems in **Networking** an
 ---
 
 ## 🏆 Certifications
-
+### Completed
 <p align="center">
   <!-- Completed -->
   <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="80" />
+</p>
 
+### On-Going
+<p align="center">
   <!-- In Progress -->
   <img src="https://github.com/user-attachments/assets/ffa4e11c-1f08-430d-a481-54af9e642029" alt="Ethical Hacker" width="80" style="opacity: 1;" title="In Progress" />
+</p>
+
+### To Be Done
+<p align="center">
   <!-- Locked/Upcoming -->
   <img src="https://img.shields.io/badge/CEH-Locked-grey?style=flat-square" alt="CEH Locked" width="80" />
   <img src="https://img.shields.io/badge/CCNA-Locked-grey?style=flat-square" alt="CCNA Locked" width="80" />
