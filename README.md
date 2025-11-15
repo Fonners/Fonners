@@ -5,17 +5,6 @@ Fonners/Fonners is a ✨ special ✨ repository because its `README.md` (this fi
 <div align="center">
   <h1>José Afonso Santos</h1>
   <p>Software Engineering Graduate | Networking & Cybersecurity Enthusiast</p>
-  <p>
-    <a href="https://www.linkedin.com/in/jos%C3%A9-afonso-calheiros-cruz-528a71226/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:zeafonso2004@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/Fonners" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
 </div>
 
 ---
@@ -30,8 +19,8 @@ I’m deeply passionate about tackling challenging problems in **Networking** an
 
 | Category              | Technologies                                              |
 |-----------------------|-----------------------------------------------------------|
-| **Languages**         | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&logoWidth=30) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&logoWidth=30) ![C](https://img.shields.io/badge/C-C7290A?logo=C&logoColor=white&logoWidth=30) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-#&logoColor=white) |
-| **Web & APIs**        | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square) ![REST](https://img.shields.io/badge/REST-API?logo=rest&logoColor=black&style=flat-square) |
+| **Languages**         | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&logoWidth=30) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&logoWidth=30) ![C](https://img.shields.io/badge/C-C7290A?logo=C&logoColor=white&logoWidth=30) |
+| **Web & APIs**        | ![REST](https://img.shields.io/badge/REST-API?logo=rest&logoColor=black&style=flat-square) |
 | **Databases**         | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)|
 | **IDEs & Tools**      | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=flat-square) |
 | **Version Control**   | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square) |
@@ -48,18 +37,10 @@ I’m deeply passionate about tackling challenging problems in **Networking** an
 </p>
 
 ### On-Going
-
-
-### To Be Done
 <p align="center">
-  <!-- Locked/Upcoming -->
-  <img src="https://img.shields.io/badge/CEH-Locked-grey?style=flat-square" alt="CEH Locked" width="80" />
-  <img src="https://img.shields.io/badge/CCNA-Locked-grey?style=flat-square" alt="CCNA Locked" width="80" />
-  <img src="https://img.shields.io/badge/PenTest%2B-Locked-grey?style=flat-square" alt="PenTest+ Locked" width="80" />
-  <img src="https://img.shields.io/badge/CISA-Locked-grey?style=flat-square" alt="CISA Locked" width="80" />
-  <img src="https://img.shields.io/badge/CISM-Locked-grey?style=flat-square" alt="CISM Locked" width="80" />
-  <img src="https://img.shields.io/badge/GIAC-Locked-grey?style=flat-square" alt="GIAC Locked" width="80" />
-</p>
+  <!-- On-Going -->
+  <img src="https://media.licdn.com/dms/image/v2/C5612AQG4us7fBGjtoQ/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1595912439631?e=1764806400&v=beta&t=SlmJXKAhUNmfC612rqOWyl2a62Yrr_rldvVab5Dug4Q" alt="CEH Locked" width="80" />
+  <img src="https://academy.hackthebox.com/storage/badges/ae46a491c837f0765dc1972f7d61e9ca/logo.png" alt="CWES" width="80" />
 
 ---
 <!-- End of Profile README -->
