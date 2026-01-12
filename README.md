@@ -22,6 +22,7 @@ I’m deeply passionate about tackling challenging problems in **Networking** an
   <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="150" />
   <img src="https://github.com/user-attachments/assets/ffa4e11c-1f08-430d-a481-54af9e642029" alt="Ethical Hacker" width="150" style="opacity: 1;" />
   <img src="https://academy.hackthebox.com/storage/badges/ae46a491c837f0765dc1972f7d61e9ca/logo.png" alt="CWES" width="150" />
+  <img src="https://github.com/user-attachments/assets/de215eee-1df6-4966-9a29-5154a1624a56" alt="Introduction to Cybersecurity" width="150" />
 </p>
 
 ### On-Going
