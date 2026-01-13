@@ -37,8 +37,8 @@ I’m deeply passionate about tackling challenging problems in **Networking** an
 ### Objective
 <p align="center">
   <!-- On-Going -->
-  <img src="https://images.credly.com/images/0a375324-4f9e-412d-b276-b6e96c428709/image.png" width="150" />
-  <img src="https://images.credly.com/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png" width="150" />
+  <img src="https://www.offsec.com/_astro/OSEP.D_R8bS1A_Ztlntl.svg" width="140" />
+  <img src="https://www.offsec.com/_astro/OSWE.DI54Eyvq_Ztlntl.svg" width="140" />
   <img src="https://www.offsec.com/_astro/OSCP-plus.BZHuApYA_Ztlntl.svg" width="140" />
 </p>
 <!-- End of Profile README -->
