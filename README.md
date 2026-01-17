@@ -37,6 +37,7 @@ I’m deeply passionate about tackling challenging problems in **Networking** an
   <img src="https://github.com/user-attachments/assets/add93a5f-6cc7-466f-a22d-997e4f1d789d" width="150" />
   <img src="https://github.com/user-attachments/assets/c185a2f7-6fd3-4c99-9617-a85715c942d2" width="150" />
   <img src="https://www.offsec.com/_astro/OSCP-plus.BZHuApYA_Ztlntl.svg" width="140" />
+  <img src="https://github.com/user-attachments/assets/d79925de-e133-473c-b98c-c9cf87a83641" width="150"/>
   <img src="https://github.com/user-attachments/assets/e0174005-dcb7-4efa-9ddf-5ad11d0cbc3b" width="150" />
   <img src="https://www.offsec.com/_astro/OSEP.D_R8bS1A_Ztlntl.svg" width="140" />
   <img src="https://www.offsec.com/_astro/OSWE.DI54Eyvq_Ztlntl.svg" width="140" />
