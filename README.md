@@ -5,7 +5,7 @@ Fonners/Fonners is a ✨ special ✨ repository because its `README.md` (this fi
 <div align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/0dy55eus-Penetration_Tester-8b0000?style=flat-square&labelColor=1a1a2e&color=c94c4c&fontColor=ffffff" />
+  <img src="https://img.shields.io/badge/0dy55eu5-Penetration_Tester-8b0000?style=flat-square&labelColor=1a1a2e&color=c94c4c&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ Fonners/Fonners is a ✨ special ✨ repository because its `README.md` (this fi
 
 <div align="center">
 
-### `root@0dy55eus:~# whoami`
+### `root@0dy55eu5:~# whoami`
 
 </div>
 
@@ -31,7 +31,7 @@ Fonners/Fonners is a ✨ special ✨ repository because its `README.md` (this fi
 
 <div align="center">
 
-### `root@0dy55eus:~# cat skills.conf`
+### `root@0dy55eu5:~# cat skills.conf`
 
 </div>
 
@@ -48,7 +48,7 @@ Fonners/Fonners is a ✨ special ✨ repository because its `README.md` (this fi
 
 <div align="center">
 
-### `root@0dy55eus:~# ls certifications/`
+### `root@0dy55eu5:~# ls certifications/`
 
 </div>
 
@@ -84,7 +84,7 @@ Fonners/Fonners is a ✨ special ✨ repository because its `README.md` (this fi
 
 <div align="center">
 
-### `root@0dy55eus:~# cat labs.log`
+### `root@0dy55eu5:~# cat labs.log`
 
 </div>
 
@@ -101,7 +101,7 @@ Fonners/Fonners is a ✨ special ✨ repository because its `README.md` (this fi
 
 <div align="center">
 
-### `root@0dy55eus:~# cat philosophy.txt`
+### `root@0dy55eu5:~# cat philosophy.txt`
 
 ```
 "The best pentesters aren't just good at breaking things —
