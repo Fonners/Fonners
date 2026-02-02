@@ -25,7 +25,7 @@ Fonners/Fonners is a ✨ special ✨ repository because its `README.md` (this fi
 
 </div>
 
-> Transitioning into **Penetration Testing** — driven by a background in software engineering and deep curiosity for how systems break. I think like an attacker, build like an engineer, and report like someone who actually wants the client to fix things. Like Mahoraga, I adapt to every environment. Focused on sharpening skills across **network pentesting**, **web application security**, and working toward the big-name offensive certs.
+> Transitioning into **Penetration Testing** — driven by a background in software engineering and deep curiosity for how systems break. I think like an attacker, build like an engineer, and report like someone who actually wants the client to fix things. Focused on sharpening skills across **network pentesting**, **web application security**, and working toward the big-name offensive certs.
 
 ---
 
