@@ -78,6 +78,7 @@ Fonners/Fonners is a ✨ special ✨ repository because its `README.md` (this fi
   <img src="https://www.offsec.com/_astro/OSCP-plus.BZHuApYA_2hPrli.svg" alt="OSCP+" width="130" />
   <img src="https://www.offsec.com/_astro/OSWE.DI54Eyvq_Ztlntl.svg" alt="OSWE" width="130" />
   <img src="https://github.com/user-attachments/assets/a321f33f-6eac-44a2-a2ba-b668ca89b48b" alt="Target Cert" width="140" />
+  <img src="https://github.com/user-attachments/assets/bdb5a070-dbc0-4ad8-b4fc-e5d9122bad11" width="130" />
 </p>
 
 ---
