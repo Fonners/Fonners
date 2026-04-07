@@ -90,14 +90,8 @@ Fonners/Fonners is a ✨ special ✨ repository because its `README.md` (this fi
 
 <div align="center">
 
-| Platform | Status |
-|---|---|
-| Hack The Box | 🟢 Active |
-| PortSwigger Web Security Academy | 🟡 In Progress |
-
+![Profile views](https://counter.kuber.studio/Fonners/hacker/count.svg)
 </div>
-
----
 
 <div align="center">
 
