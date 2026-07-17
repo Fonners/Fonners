@@ -66,7 +66,6 @@ Fonners/Fonners is a ✨ special ✨ repository because its `README.md` (this fi
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fba77825-d9fd-4385-847b-16159a75c106" alt="Target Cert" width="180" />
-  <img src="https://github.com/user-attachments/assets/add93a5f-6cc7-466f-a22d-997e4f1d789d" alt="Target Cert" width="140" />
 </p>
 
 #### 🎯 Objective — The Roadmap
